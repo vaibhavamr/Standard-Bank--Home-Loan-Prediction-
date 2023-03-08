@@ -6,8 +6,11 @@ Standard Bank Data Science Virtual Experience Programme
 Three tasks make up this virtual experience programme.
 
 1: SQL for Data Scientists
+
 2: Data Science With Python
+
 3: Preparing to Present
+
 4: Putting It All Together
 
 ♦ Task 1 - SQL for Data Scientists
